@@ -1,1 +1,3 @@
-# rectangl-utils\n\nA utility library for rectangle operations.
+# rectangl-utils
+
+A repository for orphaned scripts, docs and projects from RECTANGL/Ironystock.
